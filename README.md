@@ -1,2 +1,4 @@
 # hello-world
-Just a sample repository
+Hello people!
+
+I'm here. My name is Almazbek
